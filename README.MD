@@ -1,8 +1,6 @@
-#RSA encryption
+# RSA encryption
  
-**1.**
-
-1. 
+1. go to directory 
 ```
 cd RSA-encryption
 ```
